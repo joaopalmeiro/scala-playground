@@ -1,0 +1,5 @@
+name: scala-playground
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=3.5.0
